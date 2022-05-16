@@ -8,16 +8,16 @@ See projects files in `Files` folders. If you have project you would like to add
 
 ## Files Library
 ### Utilities
-Coming soon...
+- Coming soon...
 
 ### Games
-[Snake](/Files/Snake)
+- [Snake](/Files/Snake)
 
 ### Other
-Coming soon...
+- Coming soon...
 
 ### Open Source Projects
-Coming soon...
+- Coming soon...
 
 
 ## Handy Tutorials, Guides & Links
